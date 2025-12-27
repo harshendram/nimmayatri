@@ -34,6 +34,7 @@ Bengaluru's auto-rickshaw negotiations are notorious:
 - ✅ Teaches essential Kannada phrases with audio
 - ✅ Detects scams with visual Scam-O-Meter™
 - ✅ Offers emergency panic button
+- ✅ Shows community intelligence from r/bangalore
 - ✅ Supports 10 Indian languages
 
 ---
@@ -126,6 +127,28 @@ AI: "🚨 SCAM! Meter shows ₹180, he's asking ₹300.
 - Markdown-formatted responses
 - Conversation history
 - Error handling with retry
+
+### 6. 🔥 r/bangalore Community Intelligence
+
+**Real Stories from Real Bengalureans:**
+
+- **Trending Posts:** Hot discussions from r/bangalore about traffic, roads, and auto experiences
+- **Location Tags:** Posts tagged with specific areas (HSR Layout, Silk Board, Koramangala)
+- **Custom Intel Cards:** 4 curated tip cards based on community wisdom
+  - 🚨 Auto Scam Alert Zones (Majestic, KR Market, Railway Stations)
+  - 🛺 Peak Hour Surge strategies (8-10 AM & 6-8 PM)
+  - 🚧 Road Work Excuse counters
+  - 📍 Silk Board Reality check
+- **Interactive Engagement:** Upvote/downvote buttons, comment counts
+- **Real-Time Updates:** Recent posts (3 hours to 11 days old)
+- **Show More:** Expand from 6 to 12 curated posts
+
+**Why It Matters:**
+
+- Community validation of app's advice
+- Current context about road conditions and traffic
+- Cultural immersion for newcomers
+- Trust building through real experiences
 
 ---
 
@@ -331,7 +354,7 @@ This constraint forced clean separation of domain knowledge from code.
 
 ### Development Process
 
-**Watch:** [Kiro Development Process - YouTube]
+**Watch:** [Kiro Development Process on YouTube](https://youtu.be/kPN_Hea8Mgk)
 
 **Highlights:**
 
@@ -342,7 +365,7 @@ This constraint forced clean separation of domain knowledge from code.
 
 ### Features Demo
 
-**Watch:** [Nimma Yatri Features - YouTube]
+**Watch:** [Nimma Yatri Features on YouTube](https://youtu.be/k69V5_J8iXc)
 
 **Showcases:**
 
