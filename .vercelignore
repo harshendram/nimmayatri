@@ -1,0 +1,11 @@
+# Vercel ignore file
+learnfromthis/
+CHANGES_LOG.md
+IMPLEMENTATION_GUIDE.md
+DEPLOYMENT.md
+DEPLOYMENT_CHECKLIST.md
+ARCHITECTURE.md
+.env.local
+.env
+node_modules/
+.next/
