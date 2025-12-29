@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
 const GEMINI_API_KEY =
-  process.env.GEMINI_API_KEY || "AIzaSyARpTBffQvXS64PV8kR_zZ57-Nz1Z3LKo0";
+  process.env.GEMINI_API_KEY || "";
 
 const SYSTEM_INSTRUCTION = `# 🛺 NIMMA YATRI - AUTO RICKSHAW NEGOTIATION EXPERT
 
